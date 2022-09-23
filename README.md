@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @xGrz
-- 👀 I’m interested in PHP Laravel and React
+- 👀 PHP, Laravel, Livewire, pure JS, React
