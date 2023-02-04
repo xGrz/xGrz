@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @xGrz
-- 👀 PHP, Laravel, Livewire, pure JS, React
+- PHP/Laravel 9.x
+- PHP/JS Inertia
+- JS React
