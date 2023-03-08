@@ -1,6 +1,6 @@
-- PHP/Laravel 9.x
-- PHP/JS Inertia
-- JS React
+- PHP/Laravel 9/10
+- PHP/Inertia.js
+- React
 - SQL (mySQL)
 - RESTApi (client side)
 - FireBird database (basic)
