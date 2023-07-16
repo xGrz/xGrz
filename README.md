@@ -1,6 +1,8 @@
-- PHP/Laravel 9/10
-- PHP/Inertia.js
-- React
-- SQL (mySQL)
+- PHP since v4, now only v8
+- Laravel 9/10 (I'am love it)
+- Laravel/Inertia.js (I'am love it)
+- Laravel/Livewire (basics)
+- React with Material UI (If I want to be a good backand I should know the basics of the front...)
+- SQL (mySQL with RAW and Eloquent)
 - RESTApi (client side)
 - FireBird database (basic)
