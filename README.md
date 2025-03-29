@@ -1,5 +1,5 @@
 - PHP since v4, now only v8
-- Laravel 9+ / Livewire / Inertia
+- Laravel 9+ / Livewire / Inertia / Filament
 - SQL (mySQL with RAW and Eloquent)
 - FireBird database (basics)
 - APIs (client/server)
